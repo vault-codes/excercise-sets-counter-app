@@ -6,12 +6,15 @@ body{
    background-repeat: no-repeat;
    text-align: center;
    font-style: bold;
+    height: 100vh;
    font-family: Oxygen, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 #box-container{
     max-width: 500px;
     margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    
     /* margin-top: 50px; */
 }
 
